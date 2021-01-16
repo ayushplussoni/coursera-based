@@ -6,6 +6,11 @@ h1 {
   text-align: center;
   background: linear-gradient(to bottom,blue,red);
 }
+#fo{
+  font-family: 'Vast Shadow', cursive;
+
+font-size: 150px;
+}
 p1
 {
   font-size: 35px;
